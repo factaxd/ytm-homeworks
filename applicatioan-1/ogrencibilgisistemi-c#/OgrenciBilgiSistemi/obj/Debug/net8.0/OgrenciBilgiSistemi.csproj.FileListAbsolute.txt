@@ -1,0 +1,14 @@
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.exe
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.deps.json
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.runtimeconfig.json
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.dll
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.pdb
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.AssemblyInfoInputs.cache
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.AssemblyInfo.cs
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.dll
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\refint\OgrenciBilgiSistemi.dll
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.pdb
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.genruntimeconfig.cache
+C:\Users\facta\Desktop\YTM\uygulama-3-ödev\ogrencibilgisistemi-c#\OgrenciBilgiSistemi\obj\Debug\net8.0\ref\OgrenciBilgiSistemi.dll
