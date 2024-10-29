@@ -1,0 +1,14 @@
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\bin\Debug\net8.0\tekSorumlulukAdres.exe
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\bin\Debug\net8.0\tekSorumlulukAdres.deps.json
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\bin\Debug\net8.0\tekSorumlulukAdres.runtimeconfig.json
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\bin\Debug\net8.0\tekSorumlulukAdres.dll
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\bin\Debug\net8.0\tekSorumlulukAdres.pdb
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\tekSorumlulukAdres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\tekSorumlulukAdres.AssemblyInfoInputs.cache
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\tekSorumlulukAdres.AssemblyInfo.cs
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\tekSorumlulukAdres.csproj.CoreCompileInputs.cache
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\tekSorumlulukAdres.dll
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\refint\tekSorumlulukAdres.dll
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\tekSorumlulukAdres.pdb
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\tekSorumlulukAdres.genruntimeconfig.cache
+C:\Users\facta\Desktop\YTM\uygulama-4-ödev2\tek-sorumluluk-c#\tekSorumlulukAdres\obj\Debug\net8.0\ref\tekSorumlulukAdres.dll
