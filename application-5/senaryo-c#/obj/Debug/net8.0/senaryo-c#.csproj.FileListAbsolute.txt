@@ -1,0 +1,14 @@
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\bin\Debug\net8.0\senaryo-c#.exe
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\bin\Debug\net8.0\senaryo-c#.deps.json
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\bin\Debug\net8.0\senaryo-c#.runtimeconfig.json
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\bin\Debug\net8.0\senaryo-c#.dll
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\bin\Debug\net8.0\senaryo-c#.pdb
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\senaryo-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\senaryo-c#.AssemblyInfoInputs.cache
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\senaryo-c#.AssemblyInfo.cs
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\senaryo-c#.csproj.CoreCompileInputs.cache
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\senaryo-c#.dll
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\refint\senaryo-c#.dll
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\senaryo-c#.pdb
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\senaryo-c#.genruntimeconfig.cache
+C:\Users\facta\Desktop\YTM\ismail-yarar-414358-ödev5\senaryo-c#\obj\Debug\net8.0\ref\senaryo-c#.dll
